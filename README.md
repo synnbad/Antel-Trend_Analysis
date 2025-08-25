@@ -1,6 +1,4 @@
-# Exploratory Data Analysis Workspace
-
-This workspace is set up for comprehensive exploratory data analysis (EDA) using Python and Jupyter notebooks.
+Trend analysis performed for the Antel project
 
 ##  Quick Start
 
@@ -18,7 +16,7 @@ This workspace is set up for comprehensive exploratory data analysis (EDA) using
 
 3. **Start exploring your data!**
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── data/
